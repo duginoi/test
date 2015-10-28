@@ -1,2 +1,5 @@
-print("Hello world");
-print("Hello everybody claass;");
+<<<<<<< HEAD
+print("Hello world")
+print("Hello everybody claass;")
+print("hello guy")
+
